@@ -427,7 +427,7 @@ limitations under the License.
 
     <issueManagement>
         <system>Github Issues</system>
-        <url>https://github.com/alibaba/dubbo/issues</url>
+        <url>https://github.com/gexingnanhai/dubbo/issues</url>
     </issueManagement>
     <scm>
         <url>https://github.com/alibaba/dubbo/tree/master</url>
